@@ -3,7 +3,7 @@
 # Date: 7/16/2023
 # Description: This program modifies insertion sort to sort a list of strings instead of numbers
 
-def insertion_sort(a_list):
+def string_sort(a_list):
   """
   Sorts a_list in ascending order
   """
